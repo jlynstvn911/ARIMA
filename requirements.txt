@@ -1,5 +1,7 @@
 streamlit
+yfinance
 pandas
+numpy
 matplotlib
-openpyxl
 statsmodels
+openpyxl
