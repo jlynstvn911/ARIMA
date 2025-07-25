@@ -1,10 +1,9 @@
 streamlit
 yfinance
 pandas
-plotly
+numpy
+matplotlib
 statsmodels
-streamlit
-yfinance
-pandas
-plotly
-statsmodels
+scikit-learn
+openpyxl
+tensorflow
