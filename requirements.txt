@@ -1,8 +1,10 @@
 streamlit
-yfinance
 pandas
+yfinance
 numpy
 matplotlib
+seaborn
+plotly
 statsmodels
-openpyxl
+tensorflow
 scikit-learn
